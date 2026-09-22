@@ -11,4 +11,4 @@ my script learning route
 
 | Scripts | Description | Link to Script | 
 |---------|-------------|------|
-| soar-setup.sh | Soar : **A fast, modern, distro-independent package manager that _just works_.** | [soar-setup.sh](https://github.com/anon-18585/learn-to-script-with-me/blob/main/README.md) |
+| soar-setup.sh | Soar : **A fast, modern, distro-independent package manager that _just works_.** | [soar-setup.sh](https://github.com/anon-18585/learn-to-script-with-me/blob/main/linux/soar-setup.sh) |
